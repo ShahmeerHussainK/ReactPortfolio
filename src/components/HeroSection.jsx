@@ -8,7 +8,7 @@ function HeroSection({ scrollToPage }) {
     <div className="hero-container relative">
       <video
         className="hero-video"
-        src="./../assets/images/back.mp4" // Ensure this path is correct
+        src="https://res.cloudinary.com/dzwdsxj7s/video/upload/v1723284815/back.mp4" // Ensure this path is correct
         autoPlay
         loop
         muted
